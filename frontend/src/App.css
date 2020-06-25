@@ -79,12 +79,12 @@ body, input, button{
   height: 42px;
   padding: 0 20px;
   font-size: 16px;
-  background: #022B56;
+  background: #f05a5b;
   color: #fff;
   cursor: pointer;
   transition: ease-in-out 0.1s;
 }
 
 .content button.btn:hover{
-  background: #011F3D;
+  background: #db4537;
 }
